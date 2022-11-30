@@ -1,5 +1,3 @@
-# Kiramei
-
 ![](https://raw.githubusercontent.com/Kiramei/kiramei.github.io/main/assets/logo_t.png)
 
 **キラメイです。**
