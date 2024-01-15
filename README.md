@@ -25,20 +25,16 @@
 ![](https://img.shields.io/badge/音楽-green)
 
 **初めまして、キラメイです！**
-
  ウェブサイトの開発者なんです。
 
 音楽も初心者なんですが、頑張る続きです。
-
 今大学社団「SZUEA」で会長を務めている。
 
 もし僕たちの業務を関心するたら、ぜひメールで！
-
 メールアドレス：dianxiejun@szuea.com。
 
-「SZUEA」のウェブサイト：[szuea.com](https://www.szuea.com)
-
-私のサイトもこちら：[kiramei.cn](https://kiramei.cn)
+「SZUEA」のウェブサイト：[szuea.com](https://www.szuea.com)、
+私の個人サイトもこちら：[kiramei.cn](https://kiramei.cn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiramei&show_icons=true&theme=radical)
 
