@@ -1,11 +1,48 @@
+
+
+<div id="title" align=center>
+
+
 ![](https://raw.githubusercontent.com/Kiramei/kiramei.github.io/main/assets/logo_t.png)
 
-**キラメイです。**
+![Python](https://img.shields.io/badge/code-Frontend-blue)
+![Python](https://img.shields.io/badge/code-Backend-yellow)
+![Python](https://img.shields.io/badge/code-Deep%20Learning-purple)
 
- _ウェブサイト_ や _アンドロイド_ や _Java_ の開発者なんです。
+![](https://img.shields.io/badge/Java-yellow) 
+![](https://img.shields.io/badge/C/C++-red) 
+![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/C#-red) 
+![](https://img.shields.io/badge/Android-green)
+![](https://img.shields.io/badge/Html-red)
+![](https://img.shields.io/badge/CSS-yellow)
+![](https://img.shields.io/badge/JavaScript-green)
 
-音楽も初心者なんです。
+![](https://img.shields.io/badge/オタク-green) 
+![](https://img.shields.io/badge/二次元-green) 
+![](https://img.shields.io/badge/アニメ-green)
+![](https://img.shields.io/badge/マンガ-green) 
+![](https://img.shields.io/badge/音楽-green)
 
-よろしく頼む。
+**初めまして、キラメイです！**
 
-私のサイトはこちら：[kiramei.cn](http://kiramei.cn)
+ ウェブサイトの開発者なんです。
+
+音楽も初心者なんですが、頑張る続きです。
+
+今大学社団「SZUEA」で会長を務めている。
+
+もし僕たちの業務を関心するたら、ぜひメールで！
+
+メールアドレス：dianxiejun@szuea.com。
+
+「SZUEA」のウェブサイト：[szuea.com](https://www.szuea.com)
+
+私のサイトもこちら：[kiramei.cn](https://kiramei.cn)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiramei&show_icons=true&theme=radical)
+
+
+
+
+</div>
