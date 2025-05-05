@@ -3,7 +3,11 @@
 <div id="title" align=center>
 
 
-![](https://raw.githubusercontent.com/Kiramei/kiramei.github.io/main/assets/logo_t.png)
+<div style="padding-bottom:150px">
+<img src="https://raw.githubusercontent.com/Kiramei/Kiramei/refs/heads/main/logo_r.png" style="width:150px;" />
+</div>
+
+<span id="spacing" align=center style="height:200px"></span>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat\&logo=c\&logoColor=white)
