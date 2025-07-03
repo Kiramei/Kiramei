@@ -26,7 +26,7 @@
 
 [![Website](https://img.shields.io/badge/Web-kiramei.cn-blue?logo=google-chrome\&logoColor=white)](https://kiramei.cn)
 [![SZUEA](https://img.shields.io/badge/SZUEA-Official-orange?logo=github)](https://www.szuea.com)
-[![Email](https://img.shields.io/badge/Email-m17080854343@gmail.com-red?logo=gmail\&logoColor=white)](mailto:dianxiejun@szuea.com)
+[![Email](https://img.shields.io/badge/Email-m17080854343@gmail.com-red?logo=gmail\&logoColor=white)](mailto:m17080854343@gmail.com)
 
 ![二次元](https://img.shields.io/badge/二次元-love?style=flat&color=%23000004)
 ![アニメ](https://img.shields.io/badge/アニメ-watching?style=flat&color=%231c0c45)
