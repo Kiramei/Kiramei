@@ -62,8 +62,11 @@
 これからもよろしくお願いしますっ！₍₍ (ง ˙ω˙)ว ⁾⁾🌟
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiramei&show_icons=true&theme=radical)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kiramei/Kiramei/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kiramei/Kiramei/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kiramei/Kiramei/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
