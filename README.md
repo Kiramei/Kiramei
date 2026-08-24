@@ -3,9 +3,9 @@
 <div id="title" align=center>
 
 
-<div style="padding-bottom:150px">
-<img src="https://raw.githubusercontent.com/Kiramei/Kiramei/refs/heads/main/logo_r.png" style="width:150px;" />
-</div>
+<a style="padding-bottom:150px" href="https://kiramei.moe">
+<img src="https://raw.githubusercontent.com/Kiramei/Kiramei/refs/heads/main/logo_r.png" style="width:150px;"/>
+</a>
 
 <span id="spacing" align=center style="height:200px"></span>
 
