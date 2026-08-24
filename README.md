@@ -24,7 +24,7 @@
 ![Backend](https://img.shields.io/badge/Backend-F9A825?style=flat\&logo=fastapi\&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Frontend-1E88E5?style=flat\&logo=vue.js\&logoColor=white)
 
-[![Website](https://img.shields.io/badge/Web-kiramei.cn-blue?logo=google-chrome\&logoColor=white)](https://kiramei.cn)
+[![Website](https://img.shields.io/badge/Web-kiramei.moe-blue?logo=google-chrome\&logoColor=white)](https://kiramei.moe)
 [![SZUEA](https://img.shields.io/badge/SZUEA-Official-orange?logo=github)](https://www.szuea.com)
 [![Email](https://img.shields.io/badge/Email-m17080854343@gmail.com-red?logo=gmail\&logoColor=white)](mailto:m17080854343@gmail.com)
 
@@ -57,7 +57,7 @@
 📧 メールアドレス：[dianxiejun@szuea.com](mailto:dianxiejun@szuea.com)
 
 🔗 SZUEA公式サイト：[szuea.com](https://www.szuea.com)
-🌐 個人サイト：[kiramei.cn](https://kiramei.cn)
+🌐 個人サイト：[kiramei.moe](https://kiramei.moe)
 
 これからもよろしくお願いしますっ！₍₍ (ง ˙ω˙)ว ⁾⁾🌟
 
